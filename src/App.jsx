@@ -9,6 +9,7 @@ class App extends React.Component
       list:data
     }
   }
+  
   getTable()
   {
     let {list}=this.state
