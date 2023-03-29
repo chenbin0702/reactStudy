@@ -1,0 +1,26 @@
+export const data=[
+  {
+    id:1,
+    name:"算法分析",
+    num:2,
+    price:40
+  },
+  {
+    id:2,
+    name:"计算机网络",
+    num:1,
+    price:50
+  },
+  {
+    id:3,
+    name:"数据结构",
+    num:5,
+    price:53
+  },
+  {
+    id:3,
+    name:"计算机组成以原理",
+    num:4,
+    price:74
+  },
+]
