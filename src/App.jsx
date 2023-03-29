@@ -1,5 +1,7 @@
 import React from 'react';
 import { data } from './data'
+
+
 class App extends React.Component
 {
   constructor()
