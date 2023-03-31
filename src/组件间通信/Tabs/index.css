@@ -1,0 +1,16 @@
+.tabs{
+  width: 300px;
+  display: flex;
+}
+.tabs .tabs-item
+{
+  flex: 1;
+}
+ .active
+{
+  color: red;
+}
+ .active .text
+{
+  border-bottom: 3px red solid;
+}
