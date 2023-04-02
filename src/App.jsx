@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Contorl from './受控和非受控组件/Contorl'
 import Father from './子传父/Father'
 import NavBar from './插槽使用/NavBar'
 
@@ -14,6 +15,7 @@ export default class App extends Component {
         <Father></Father>
         <TabControl></TabControl>
          <NavBar></NavBar>
+         <Contorl></Contorl>
       </div>
     )
   }
