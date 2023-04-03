@@ -1,0 +1,8 @@
+.item
+{
+  display: flex;
+}
+.item >div{
+  flex: 1;
+  border: 1px #ccc solid;
+}
