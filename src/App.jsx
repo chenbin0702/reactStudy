@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+
 // import ClassNames from './classnames库/ClassNames'
 // import CssInJs from './css_in_js写法/CssInJs'
 // import Form from './受控和非受控组件/Form'
@@ -21,7 +22,10 @@ export default class App extends Component {
          <Form/>
          <CssInJs></CssInJs>
         <ClassNames></ClassNames> */}
+  
         <Redux></Redux>
+ 
+        
       </div>
     )
   }

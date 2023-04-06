@@ -31,7 +31,6 @@ c extends PureComponent {
         <Home/>
         <Profile/>
         </div>
-       
       </div>
     )
   }
